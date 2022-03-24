@@ -14,6 +14,11 @@
 	<title>学生端</title>
 	<link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.6.1/css/bootstrap.min.css" rel="stylesheet">
 	<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.6.0.slim.js"></script>
+	<style>
+		button.btn {
+			margin: 2px auto;
+		}
+	</style>
 </head>
 <body style="display: none;">
 
